@@ -1,9 +1,11 @@
-# eyerobot
+# About
 
-This repository is used to auto update EyeRobot's clients.
+This repository contains latest EyeRobot binaries.
 
-## Routes
+# Windows / MacOS
 
-- /:owner/:repo/:platform/:version
-- /:owner/:repo/win32/:version/RELEASES
+For windows and MacOS platforms, updates are automatic.
 
+# Linux
+
+Autoupdates are not available under Linux. User must update manually its binary.
