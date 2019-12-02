@@ -1,11 +1,15 @@
-# About
+# Eyerobot release repository
 
 This repository contains latest EyeRobot binaries.
 
-# Windows / MacOS
+## Downloads
 
-For windows and MacOS platforms, updates are automatic.
+To get binaries for you platform, please visit [Download section](https://www.eyerobot.io/#download).
 
-# Linux
+## User's manual
 
-Autoupdates are not available under Linux. User must update manually its binary.
+For full user documentation please visit [Documentation website](https://docs.eyerobot.io).
+
+## API specification
+
+If you need a full API specification, please refer to [Swagger API reference](https://api.eyerobot.io/doc).
